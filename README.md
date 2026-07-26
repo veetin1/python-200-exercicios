@@ -24,30 +24,30 @@ O objetivo deste projeto é resolver **200 exercícios de Python**, evoluindo do
 
 ## Organização
 
-Cada pasta representa um conjunto de assuntos.
+Cada pasta representa um conjunto de tópicos relacionados, organizados de forma progressiva, acompanhando a evolução dos exercícios ao longo do desafio.
 
 ```text
-01-fundamentos
-02-condicionais
-03-lacos
-04-funcoes
-05-colecoes
-06-poo
-07-arquivos
-08-banco-de-dados
-09-apis
-10-projetos
+01-introducao-python
+02-operadores
+03-controle-de-fluxo
+04-arrays-e-colecoes
+05-metodos-e-funcoes
+06-classes-e-objetos
+07-heranca-e-polimorfismo
+08-manipulacao-de-strings
+09-desafios
 ```
 
-Dentro de cada pasta, os exercícios serão numerados sequencialmente.
+Dentro de cada módulo, os exercícios são organizados em pastas individuais e numerados sequencialmente.
 
 Exemplo:
 
 ```text
-01-fundamentos/
-    exercicio-001/
-    exercicio-002/
-    exercicio-003/
+01-introducao-python/
+├── 001-ola-mundo/
+├── 002-comentarios-no-codigo/
+├── 003-variaveis-e-tipos-de-dados/
+└── ...
 ```
 
 ## Tecnologias
