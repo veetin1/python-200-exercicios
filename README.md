@@ -58,16 +58,9 @@ Exemplo:
 
 - [x] Exercício 001
 - [ ] Exercício 002
-- [ ] Exercício 003
-- ...
-- [ ] Exercício 200
 
 ## Motivação
 
-A melhor forma de aprender programação é praticando.
+A programação é uma área em constante evolução, e acredito que a melhor forma de aperfeiçoar uma habilidade é por meio da prática contínua.
 
-Este repositório servirá como um registro da minha evolução e poderá ser utilizado como material de consulta no futuro.
-
----
-
-⭐ Sempre que possível, voltarei aos exercícios antigos para refatorá-los e aplicar novos conhecimentos adquiridos durante a jornada.
+Este repositório reúne minha resolução de 200(ou mais) exercícios de Python, documentando meu processo de aprendizado, consolidando conceitos e registrando minha evolução ao longo do tempo. Além de servir como material de consulta pessoal, ele também representa meu compromisso com o aprimoramento técnico.
