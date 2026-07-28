@@ -56,8 +56,13 @@ Exemplo:
 
 ## Progresso
 
-- [x] Exercício 001
-- [ ] Exercício 002
+Este repositório é atualizado continuamente.
+
+Atualmente:
+
+- 📚 Exercícios concluídos: **3**
+- 🧩 Desafios concluídos: **0**
+- 🚀 Projetos concluídos: **0**
 
 ## Motivação
 
