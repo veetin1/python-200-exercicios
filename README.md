@@ -60,7 +60,7 @@ Este repositório é atualizado continuamente.
 
 Atualmente:
 
-- 📚 Exercícios concluídos: **3**
+- 📚 Exercícios concluídos: **7**
 - 🧩 Desafios concluídos: **0**
 - 🚀 Projetos concluídos: **0**
 
